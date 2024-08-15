@@ -12,9 +12,6 @@ This project is a simple webpage created as part of the LetsUpgrade assignment D
 - [Features](#-features)
 - [Technologies Used](#-technologies-used)
 - [Installation](#-installation)
-- [Usage](#-usage)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ## 📄 Description
 
